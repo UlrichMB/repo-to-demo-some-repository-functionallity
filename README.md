@@ -5,10 +5,10 @@
 
 Kenntnissen und Erfahrungen:
 
-Erfolgreich abgeschlossenes Studium der Fachrichtungen Betriebswirtschaft, Wirtschaftsingenieurwesen, Wirtschaftsinformatik, Wirtschaftsmathematik oder eine vergleichbare Ausbildung
+Erfolgreich abgeschlossenes Studium der Fachrichtungen Betriebswirtschaft
 
-Allgemeine methodische Grundlagen aus dem Bereich Data Warehouse, Machine Learning und Business Intelligence
+Allgemeine methodische Grundlagen aus dem Bereich **Data Warehouse, Machine Learning und Business Intelligence**
 
-Wünschenswert sind erste praktische Erfahrungen entweder im Bereich Datenbewirtschaftung (ETL) oder im Bereich Analyse und Reporting. Idealerweise hast du in diesem Umfeld bereits Erfahrung in der Anwendung eines DWH- oder BI-Tools eines namhaften Herstellers (z.B. Oracle, SAP, Microsoft, Informatica, Tableau, Qlik, MicroStrategy) gesammelt.
+**Wünschenswert** sind erste praktische Erfahrungen entweder im Bereich Datenbewirtschaftung (ETL) oder im Bereich Analyse und Reporting. Idealerweise hast du in diesem Umfeld bereits Erfahrung in der Anwendung eines DWH- oder BI-Tools eines namhaften Herstellers (z.B. Oracle, SAP, Microsoft, Informatica, **Tableau**, Qlik, MicroStrategy) gesammelt.
 
-Außerdem bringst du viel Neugierde mit, um in neue Themen und Technologien einzutauchen sowie Spaß am Austausch innerhalb der OC Community.
+Außerdem bringst du viel **Neugierde** mit, um in neue Themen und Technologien einzutauchen sowie Spaß am Austausch innerhalb der OC Community.
